@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>dflr8</title>
+  <title>NCTRNL</title>
  
   <!-- If you are using CSS version, only link these 2 files, you may add app.css to use for your overrides if you like. -->
   {{ HTML::style('css/foundation.css') }}
@@ -20,7 +20,7 @@
 <nav class="top-bar" data-topbar role="navigation">
       <ul class="title-area">
         <li class="name">
-          <h1><a href="#">dflr8</a></h1>
+          <h1><a href="#">NCTRNL</a></h1>
         </li>
       </ul>
 
