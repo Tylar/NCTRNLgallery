@@ -1,0 +1,35 @@
+body
+{
+	background-image: url('../img/footer_lodyas.png');
+}
+
+.top-bar .name h1 a
+{
+	font-size: 24px;
+}
+
+.top-bar, .top-bar-section li:not(.has-form) a:not(.button)
+{
+	background-color: #e74c3c;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover
+{
+	background-color: #f2f2f2;
+	color: #333333;
+}
+
+#top-row
+{
+	margin-top: 15px;
+}
+
+input.button
+{
+	background-color: #e74c3c;
+}
+
+input.button:hover
+{
+	background-color: #ba2717;
+}
